@@ -1,0 +1,48 @@
+{
+  "general": {
+    "admin": null,
+    "open_join": true,
+    "visible": true,
+    "members": [
+      "tt",
+      "omiii",
+      "gopudon",
+      "win",
+      "den",
+      "dim",
+      "ton",
+      "om",
+      "tim",
+      "gom",
+      "gopu",
+      "john",
+      "won"
+    ],
+    "pending": [],
+    "shutdown": false
+  },
+  "two": {
+    "admin": "den",
+    "open_join": true,
+    "visible": true,
+    "members": [
+      "gopudon",
+      "dim",
+      "den",
+      "ton",
+      "tim"
+    ],
+    "pending": [],
+    "shutdown": false
+  },
+  "one": {
+    "admin": "ton",
+    "open_join": true,
+    "visible": true,
+    "members": [
+      "ton"
+    ],
+    "pending": [],
+    "shutdown": false
+  }
+}

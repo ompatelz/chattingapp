@@ -1,0 +1,115 @@
+2025-11-17 01:05:07,003 INFO Starting server on 0.0.0.0:8765
+2025-11-17 01:05:07,005 INFO server listening on 0.0.0.0:8765
+2025-11-17 01:05:07,005 INFO [SERVER] Chat server running at ws://0.0.0.0:8765
+2025-11-17 01:06:17,030 INFO connection open
+2025-11-17 01:06:17,031 INFO New connection
+2025-11-17 01:06:25,800 INFO AUTH action=login user=om
+2025-11-17 01:06:29,898 INFO AUTH action=login user=gopu
+2025-11-17 01:06:35,971 INFO AUTH action=register user=om
+2025-11-17 01:06:41,670 INFO AUTH action=login user=om
+2025-11-17 01:07:09,247 INFO AUTH action=register user=gom
+2025-11-17 01:07:09,247 INFO Registered & logged in gom
+2025-11-17 01:10:30,324 INFO Starting server on 0.0.0.0:8765
+2025-11-17 01:10:32,741 INFO Starting server on 0.0.0.0:8765
+2025-11-17 01:10:34,115 INFO Starting server on 0.0.0.0:8765
+2025-11-17 01:11:06,834 INFO Starting server on 0.0.0.0:8765
+2025-11-17 01:11:08,667 INFO Starting server on 0.0.0.0:8765
+2025-11-17 01:11:35,153 INFO Starting server on 0.0.0.0:8765
+2025-11-17 01:11:50,334 INFO Starting server on 0.0.0.0:8765
+2025-11-17 01:11:50,356 INFO server listening on 0.0.0.0:8765
+2025-11-17 01:11:50,356 INFO [SERVER] Chat server running at ws://0.0.0.0:8765
+2025-11-17 01:12:43,843 INFO connection open
+2025-11-17 01:12:43,843 INFO New connection
+2025-11-17 01:12:49,042 INFO AUTH action=login user=om
+2025-11-17 01:13:05,724 INFO AUTH action=register user=win
+2025-11-17 01:13:22,382 INFO connection closed
+2025-11-17 10:59:10,817 INFO Starting server on 0.0.0.0:8765
+2025-11-17 10:59:10,850 INFO server listening on 0.0.0.0:8765
+2025-11-17 10:59:10,851 INFO [SERVER] Chat server running at ws://0.0.0.0:8765
+2025-11-17 11:00:21,950 INFO connection open
+2025-11-17 11:00:21,951 INFO New connection
+2025-11-17 11:00:21,991 INFO connection closed
+2025-11-17 11:00:48,446 INFO connection rejected (400 Bad Request)
+2025-11-17 11:00:48,447 INFO connection closed
+2025-11-17 11:01:35,348 INFO Starting server on 0.0.0.0:8765
+2025-11-17 11:01:35,370 INFO server listening on 0.0.0.0:8765
+2025-11-17 11:01:35,370 INFO [SERVER] Chat server running at ws://0.0.0.0:8765
+2025-11-17 11:02:31,597 INFO connection open
+2025-11-17 11:02:31,598 INFO New connection
+2025-11-17 11:02:37,240 INFO AUTH action=login user=om
+2025-11-17 11:02:46,555 INFO AUTH action=register user=den
+2025-11-17 11:07:12,625 INFO connection closed
+2025-11-17 11:08:04,505 INFO connection open
+2025-11-17 11:08:04,506 INFO New connection
+2025-11-17 11:08:13,348 INFO AUTH action=login user=gopu
+2025-11-17 11:08:18,715 INFO AUTH action=register user=ton
+2025-11-17 11:09:31,308 INFO connection open
+2025-11-17 11:09:31,308 INFO New connection
+2025-11-17 11:09:36,868 INFO AUTH action=register user=tim
+2025-11-17 11:15:13,711 INFO connection open
+2025-11-17 11:15:13,712 INFO New connection
+2025-11-17 11:15:17,154 INFO AUTH action=login user=om
+2025-11-17 11:15:25,917 INFO AUTH action=login user=tim
+2025-11-17 11:19:29,907 INFO connection closed
+2025-11-17 11:19:29,909 INFO connection closed
+2025-11-17 11:19:29,910 INFO connection closed
+2025-11-17 11:19:51,723 INFO connection open
+2025-11-17 11:19:51,723 INFO New connection
+2025-11-17 11:19:52,003 INFO connection closed
+2025-11-17 11:22:22,032 INFO connection open
+2025-11-17 11:22:22,033 INFO New connection
+2025-11-17 11:22:22,085 INFO connection closed
+2025-11-17 11:23:10,999 INFO connection open
+2025-11-17 11:23:10,999 INFO New connection
+2025-11-17 11:23:11,287 INFO connection closed
+2025-11-17 11:33:50,636 INFO Starting server on 0.0.0.0:8765
+2025-11-17 11:33:50,708 INFO server listening on 0.0.0.0:8765
+2025-11-17 11:33:50,708 INFO [SERVER] Chat server running at ws://0.0.0.0:8765
+2025-11-17 11:35:36,112 INFO connection open
+2025-11-17 11:35:36,114 INFO New connection
+2025-11-17 11:35:41,560 INFO AUTH action=login user=om
+2025-11-17 11:35:54,755 INFO AUTH action=register user=dim
+2025-11-17 11:38:20,788 INFO connection open
+2025-11-17 11:38:20,788 INFO New connection
+2025-11-17 11:38:27,917 INFO AUTH action=login user=gopu
+2025-11-17 11:38:49,250 INFO AUTH action=register user=gopudon
+2025-11-17 11:44:20,115 INFO server closing
+2025-11-17 11:44:20,297 INFO connection closed
+2025-11-17 11:44:20,298 INFO connection closed
+2025-11-17 11:44:20,300 INFO Server stopped
+2025-11-17 11:44:32,319 INFO Starting server on 0.0.0.0:8765
+2025-11-17 11:44:32,341 INFO server listening on 0.0.0.0:8765
+2025-11-17 11:44:32,341 INFO [SERVER] Chat server running at ws://0.0.0.0:8765
+2025-11-17 11:46:04,241 INFO connection open
+2025-11-17 11:46:04,242 INFO New connection
+2025-11-17 11:46:08,362 INFO AUTH action=login user=om
+2025-11-17 11:46:09,250 INFO connection open
+2025-11-17 11:46:09,250 INFO New connection
+2025-11-17 11:46:18,700 INFO AUTH action=register user=tt
+2025-11-17 11:46:30,652 INFO AUTH action=register user=omiii
+2025-11-17 11:47:30,719 INFO server closing
+2025-11-17 11:47:30,902 INFO connection closed
+2025-11-17 11:47:30,926 INFO connection closed
+2025-11-17 11:47:30,927 INFO Server stopped
+2025-11-17 11:47:36,434 INFO Starting server on 0.0.0.0:8765
+2025-11-17 11:47:36,455 INFO server listening on 0.0.0.0:8765
+2025-11-17 11:47:36,455 INFO [SERVER] Chat server running at ws://0.0.0.0:8765
+2025-11-17 11:50:07,847 INFO connection open
+2025-11-17 11:50:07,850 INFO New connection
+2025-11-17 11:50:16,767 INFO AUTH action=register user=om
+2025-11-17 11:50:31,511 INFO connection closed
+2025-11-17 11:50:41,152 INFO Starting server on 0.0.0.0:8765
+2025-11-17 11:50:41,173 INFO server listening on 0.0.0.0:8765
+2025-11-17 11:50:41,173 INFO [SERVER] Chat server running at ws://0.0.0.0:8765
+2025-11-17 11:51:44,654 INFO connection open
+2025-11-17 11:51:44,655 INFO New connection
+2025-11-17 11:51:58,689 INFO AUTH action=register user=om
+2025-11-17 11:52:22,342 INFO connection open
+2025-11-17 11:52:22,343 INFO New connection
+2025-11-17 11:52:29,207 INFO AUTH action=register user=gopu
+2025-11-17 11:52:29,211 INFO connection closed
+2025-11-17 11:52:32,288 INFO connection open
+2025-11-17 11:52:32,288 INFO New connection
+2025-11-17 11:52:36,048 INFO AUTH action=login user=om
+2025-11-17 11:53:06,492 INFO connection closed
+2025-11-17 11:53:06,495 INFO connection closed
